@@ -1,0 +1,31 @@
+.text1{
+    color: #FFF;
+    background-color: dark;
+    text-align: justify;
+    align-items: center;
+}
+
+.cerita{
+	padding:0px;
+	margin:0px;
+	background-color:dark;
+	}
+.carousel-inner{
+	width:60%; 
+	}
+
+.carousel-item{
+	width:60%;
+	}
+.carousel-item img{
+	width:60%;
+	}
+.carousel-control-prev {
+	margin:8%;
+	}
+.carousel-control-next{
+	margin:8%;
+	}
+
+
+
